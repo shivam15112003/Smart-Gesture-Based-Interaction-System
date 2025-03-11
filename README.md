@@ -36,8 +36,3 @@ This project enables **gesture-based control** for smart devices and virtual inp
 - Expanded IoT support for more smart home devices.
 - Improved gesture recognition under low-light conditions.
 
-## 🤝 Contributions
-Feel free to **fork, improve, and submit PRs**! For any issues, open a ticket in the Issues tab. 
-
-## 📜 License
-This project is licensed under the MIT License.
