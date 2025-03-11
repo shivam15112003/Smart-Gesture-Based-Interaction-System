@@ -28,7 +28,7 @@ This project enables **gesture-based control** for smart devices and virtual inp
    ```
 3. Run the gesture recognition system:
    ```sh
-   python main.py
+   python main_original_code.py
    ```
 
 ## 📈 Future Enhancements
