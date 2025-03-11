@@ -19,8 +19,8 @@ This project enables **gesture-based control** for smart devices and virtual inp
 ## 📂 Installation & Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/Smart-Gesture-System.git
-   cd Smart-Gesture-System
+   git clone https://github.com/shivam15112003/Smart-Gesture-Based-Interaction-System.git
+   cd Smart-Gesture-Based-Interaction-System
    ```
 2. Install dependencies:
    ```sh
