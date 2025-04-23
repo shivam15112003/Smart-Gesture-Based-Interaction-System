@@ -1,3 +1,4 @@
+
 # Smart Gesture-Based Interaction System
 
 ## 📌 Overview
@@ -36,3 +37,10 @@ This project enables **gesture-based control** for smart devices and virtual inp
 - Expanded IoT support for more smart home devices.
 - Improved gesture recognition under low-light conditions.
 
+## 📚 Published Research
+
+### [Handcrafted AI: Designing Virtual Hardware for Hand Gesture-Based Interaction](https://ieeexplore.ieee.org/document/10939210)
+- **Conference:** International Conference on Power, Control and Technology (ICPCT 2025)
+- **Publisher:** IEEE Xplore  
+- **DOI Link:** [https://ieeexplore.ieee.org/document/10939210](https://ieeexplore.ieee.org/document/10939210)  
+- **Summary:** This paper presents a novel system for hand gesture-based interaction using virtual hardware, enabling intuitive device control through AI-driven recognition techniques.
