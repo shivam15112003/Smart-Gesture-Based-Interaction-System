@@ -1,5 +1,5 @@
 
-# Smart Gesture-Based Interaction System
+# ✋Smart Gesture-Based Interaction System
 
 ## 📌 Overview
 This project enables **gesture-based control** for smart devices and virtual input mechanisms using **Mediapipe, OpenCV, and IoT**. It provides a touchless experience for interacting with digital systems, making it ideal for smart homes, AR/VR, and automation.
